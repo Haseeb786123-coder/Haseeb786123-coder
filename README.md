@@ -1,8 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Haseeb786123-coder&color=blue)
 
 ### Hi there! 👋  
-I'm Haseeb Tariq, a passionate **Machine Learning & DSA enthusiast from Pakistan.  
+I'm **Haseeb Tariq**, a passionate **Machine Learning & DSA enthusiast** from Pakistan.  
 I love coding, solving complex problems, and contributing to open source.
+## ✨ Motto:
+"Code like poetry, write like a storyteller, and debug like a detective."
 
 ### 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,6 +12,9 @@ I love coding, solving complex problems, and contributing to open source.
 
 📊 *GitHub Stats:*  
 ![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseeb786123-coder&show_icons=true&theme=radical)
+
+## 📂 Pinned Repositories:
+🚀 **[Library Management System](https://github.com/Haseeb786123-coder/Library-Management-System)**
 👀 I’m interested in *Machine Learning* and *Deep Learning*  
 🌱 I’m currently learning *Python* and *Web Development*  
 💞 I’m looking to collaborate on:  

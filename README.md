@@ -1,4 +1,5 @@
-👋 Hi, I’m @Haseeb786123-coder  ![Profile Views](https://komarev.com/ghpvc/?username=Haseeb786123-coder&color=blue)
+👋 Hi, I’m @Haseeb786123-coder 
+![Profile Views](https://komarev.com/ghpvc/?username=Haseeb786123-coder&color=blue)
 👀 I’m interested in *Machine Learning* and *Deep Learning*  
 🌱 I’m currently learning *Python* and *Web Development*  
 💞 I’m looking to collaborate on:  

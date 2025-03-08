@@ -24,9 +24,9 @@ I love coding, solving complex problems, and contributing to open source.
    - *DSA* (competitive programming, algorithm optimization)  
    - *Open-source contributions* (Python, ML, DSA)  
 
-📫 *How to reach me:*  
-   - GitHub: [github.com/Haseeb786123-coder](https://github.com/Haseeb786123-coder)  
-   - Email: haseebtariq.babbar@gmail.com  
+## 📫 Connect with Me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseebtariq.babbar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haseeb786123-coder)  
 
 😄 *Pronouns:* He/Him  
 ⚡ *Fun fact:* I started with ‘Hello, World!’ and now I want to build the world! 

@@ -6,9 +6,6 @@ I love coding, solving complex problems, and contributing to open source.
 ## ✨ Motto:
 "Code like poetry, write like a storyteller, and debug like a detective."
 
-## 📜 Random Developer Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)

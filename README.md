@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Haseeb786123-coder&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Haseeb-Tariq-coder&color=blue)
 
 ### Hi there! 👋  
 I'm **Haseeb Tariq**, a passionate **Machine Learning & DSA enthusiast** from Pakistan.  
